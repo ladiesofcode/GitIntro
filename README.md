@@ -23,7 +23,7 @@ Edit this ReadMe by adding your name at the section in the bottom
 
 ## Commit
 
-Commit your change, make sure to add a useful message
+Commit your change, make sure to add a useful message. Ensuring you are using your own branch!
 
 ```bash
 git commit -m "Add your useful message here"
