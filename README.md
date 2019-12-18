@@ -11,7 +11,7 @@ The first step is to [install GIT](https://git-scm.com/book/en/v2/Getting-Starte
 ## Clone The Repo
 
 ```bash
-git clone https://gitlab.com/ASEP-Strath/git-demo.git
+git clone https://github.com/ladiesofcode/GitIntro.git
 ```
 
 ## Create a Branch
