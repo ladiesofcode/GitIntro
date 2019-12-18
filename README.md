@@ -3,9 +3,11 @@
 So you want to learn about GIT? A great place to start is:
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [GitLab basics guide](https://docs.gitlab.com/ee/gitlab-basics/README.html)
-## Installation
 
-The first step is to [install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your machine
+## First Steps
+In order to follow this tutorial you will need access to the following:
+* GIT on your machince, this can be done by following the steps on how to [install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
+* A Github account, if you don't have one you can create one [here](https://github.com/join)
 
 
 ## Clone The Repo
