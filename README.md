@@ -32,6 +32,8 @@ To then clone on command line:
 git clone https://github.com/fieheath/GitIntro.git
 ```
 
+Make sure to ensure that the /username/ is in fact your own username! Aka change it from /fieheath/
+
 ## Create a Branch
 
 Follow the instructions on how to [create a branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository). This can be done on Github Web Interface, Name the branch after your username, mine would be fieheath_branch.
