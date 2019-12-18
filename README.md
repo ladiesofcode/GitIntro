@@ -1,6 +1,6 @@
-# GIT Demo
+# Git Demo
 
-So you want to learn about GIT? A great place to start is:
+So you want to learn about Git? A great place to start is:
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [GitLab basics guide](https://docs.gitlab.com/ee/gitlab-basics/README.html)
 
@@ -10,12 +10,12 @@ By the end of this tutorial you will have:
 * Created a branch
 * Edited the README
 * Created a PR
-* Learned some git
+* Learned some Git
 
 
 ## First Steps
 In order to follow this tutorial you will need access to the following:
-* GIT on your machince, this can be done by following the steps on how to [install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
+* Git on your machince, this can be done by following the steps on how to [install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
 * A Github account, if you don't have one you can create one [here](https://github.com/join)
 
 ## Oh Forks
@@ -24,7 +24,7 @@ A fork is a copy of a repository that you manage. Forks let you make changes to 
 This repo acts as the original repository, which everyone will not have write access to. So to get around this we will fork the repo, make the changes, create a PR and see our changes once the PR has been approved.
 
 ## Forking 
-On the GitHub web interface, click Fork on the top right hand corner: this will make a copy of the repo to your GitHub account. Then we will clone your forked repo onto your own machine by using git via command line or another Git tool.
+On the GitHub web interface, click Fork on the top right hand corner: this will make a copy of the repo to your GitHub account. Then we will clone your forked repo onto your own machine by using Gir via command line or another Git tool.
 
 To then clone on command line:
 
