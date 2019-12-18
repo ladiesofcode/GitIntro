@@ -24,9 +24,7 @@ A fork is a copy of a repository that you manage. Forks let you make changes to 
 This repo acts as the original repository, which everyone will not have write access to. So to get around this we will fork the repo, make the changes, create a PR and see our changes once the PR has been approved.
 
 ## Forking 
-On the GitHub web interface, click Fork on the top right hand corner: this will make a copy of the repo to your GitHub account. Then we will clone your forked repo onto your own machine by using git via command line or a Git tool.
-
-![Fork](https://github.com/ladiesofcode/GitIntro/blob/master/ForkExample.png)
+On the GitHub web interface, click Fork on the top right hand corner: this will make a copy of the repo to your GitHub account. Then we will clone your forked repo onto your own machine by using git via command line or another Git tool.
 
 To then clone on command line:
 
