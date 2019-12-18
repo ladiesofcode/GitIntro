@@ -4,11 +4,6 @@ So you want to learn about GIT? A great place to start is:
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [GitLab basics guide](https://docs.gitlab.com/ee/gitlab-basics/README.html)
 
-## First Steps
-In order to follow this tutorial you will need access to the following:
-* GIT on your machince, this can be done by following the steps on how to [install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
-* A Github account, if you don't have one you can create one [here](https://github.com/join)
-
 ## Outcome
 By the end of this tutorial you will have:
 * Forked a codebase
@@ -17,23 +12,33 @@ By the end of this tutorial you will have:
 * Created a PR
 * Learned some git
 
+
+## First Steps
+In order to follow this tutorial you will need access to the following:
+* GIT on your machince, this can be done by following the steps on how to [install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
+* A Github account, if you don't have one you can create one [here](https://github.com/join)
+
 ## Oh Forks
 A fork is a copy of a repository that you manage. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
 
-This repo acts as the original repository, which everyone will not have write access to. So to 
+This repo acts as the original repository, which everyone will not have write access to. So to get around this we will fork the repo.
 
-## Clone The Repo
-To have the repo on your own machine, use a commandline or other Git tool to clone the repo:
+## Forking 
+On the Github Web Interface, click Fork on the top right hand corner. Then we will clone the repo onto your own machine, use a commandline or other Git tool to clone the repo.
+
+![Fork](https://github.com/ladiesofcode/GitIntro/blob/master/ForkExample.png)
+
+To then clone on command line:
 
 ```bash
-git clone https://github.com/ladiesofcode/GitIntro.git
+git clone https://github.com/fieheath/GitIntro.git
 ```
 
 ## Create a Branch
 
-Follow the instructions on how to [create a branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository). This is typically done on the Github Web Interface, Name the branch after your username, mine would be fieheath_branch.
+Follow the instructions on how to [create a branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository). This can be done on Github Web Interface, Name the branch after your username, mine would be fieheath_branch.
 
-Altenrnatively, this can be done on the commandline:
+Alternatively, this can be done on the command line:
 
 ```bash
 git checkout -b [name_of_your_new_branch]
@@ -42,7 +47,12 @@ git checkout -b [name_of_your_new_branch]
 ## Edit this ReadMe
 Edit this ReadMe by adding your name at the section in the bottom. 
 
-## Commit
+## Add and Commit
+You will want to add your changed files and the index to the repository, this is done via add.
+
+```bash
+git add .
+```
 
 Commit your change, make sure to add a useful message. Ensuring you are using your own branch!
 
