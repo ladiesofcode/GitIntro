@@ -16,7 +16,7 @@ git clone https://github.com/ladiesofcode/GitIntro.git
 
 ## Create a Branch
 
-Follow the instructions on using the project dashboard to [create a branch](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-new-branch)
+Follow the instructions on how to [create a branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository). Name the branch after your username, mine would be fieheath_branch.
 
 ## Edit this ReadMe
 Edit this ReadMe by adding your name at the section in the bottom 
@@ -39,15 +39,11 @@ git push
 
 ## Create a PR
 
-Create a PR (pull-request) or MR (merge request). Follow the instructions on [creating a merge request](https://docs.gitlab.com/ee/user/project/merge_requests/index.html)
+Create a PR (pull-request) or MR (merge request). Follow the instructions on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ## Merge
 
-Once your merge request has been approved, merge your changes.
-
-## Delete Your Branch
-
-Make sure to clean up as you go along and delete any old branches which have been merged!
+Once your merge request has been approved, [merge your changes](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request).
 
 ## Add Your Name Here
 * Fiona Heath
