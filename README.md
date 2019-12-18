@@ -9,6 +9,18 @@ In order to follow this tutorial you will need access to the following:
 * GIT on your machince, this can be done by following the steps on how to [install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) 
 * A Github account, if you don't have one you can create one [here](https://github.com/join)
 
+## Outcome
+By the end of this tutorial you will have:
+* Forked a codebase
+* Created a branch
+* Edited the README
+* Created a PR
+* Learned some git
+
+## Oh Forks
+A fork is a copy of a repository that you manage. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
+
+This repo acts as the original repository, which everyone will not have write access to. So to 
 
 ## Clone The Repo
 To have the repo on your own machine, use a commandline or other Git tool to clone the repo:
