@@ -11,6 +11,7 @@ In order to follow this tutorial you will need access to the following:
 
 
 ## Clone The Repo
+To have the repo on your own machine, use a commandline or other Git tool to clone the repo:
 
 ```bash
 git clone https://github.com/ladiesofcode/GitIntro.git
@@ -18,10 +19,16 @@ git clone https://github.com/ladiesofcode/GitIntro.git
 
 ## Create a Branch
 
-Follow the instructions on how to [create a branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository). Name the branch after your username, mine would be fieheath_branch.
+Follow the instructions on how to [create a branch](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository). This is typically done on the Github Web Interface, Name the branch after your username, mine would be fieheath_branch.
+
+Altenrnatively, this can be done on the commandline:
+
+```bash
+git checkout -b [name_of_your_new_branch]
+```
 
 ## Edit this ReadMe
-Edit this ReadMe by adding your name at the section in the bottom 
+Edit this ReadMe by adding your name at the section in the bottom. 
 
 ## Commit
 
