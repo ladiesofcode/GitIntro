@@ -65,7 +65,7 @@ git commit -m "Add your useful message here"
 Once you have commit your changes on your local repo you will want to make sure it is on the repository, we do this by pushing.
 
 ```bash
-git push
+git push origin [name_of_your_new_branch]
 ```
 
 ## Create a PR
